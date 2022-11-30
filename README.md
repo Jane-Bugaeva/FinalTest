@@ -7,3 +7,4 @@
 
 # **Решение контрольной работы**
 1. Создан репозиторий ***[тут](https://github.com/Jane-Bugaeva/FinalTest "Контрольная работа")***.
+2. Нарисована блок-схема ***[тут](https://drive.google.com/file/d/1U-74TDxTTXdKFaKY0qpGrlm9qdDVnC2H/view?usp=sharing "Контрольная работа")*** и ***[тут](https://drive.google.com/file/d/1eeXKp0c_2UnnUiIOKT-tAqBZ4heatJ4V/view?usp=share_link "Контрольная работа")***
