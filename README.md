@@ -11,3 +11,4 @@
 3. README.md, как раз данный файл и лежит ***[тут](https://github.com/Jane-Bugaeva/FinalTest/blob/master/README.md "Контрольная работа")***
 3. README.md, как раз данный файл и лежит ***[тут](https://github.com/Jane-Bugaeva/FinalTest/blob/master/README.md "Контрольная работа")***
 4. Написана программа, решающая поставленную задачу и лежит ***[тут](https://github.com/Jane-Bugaeva/FinalTest/blob/master/Program.cs "Контрольная работа")***
+5. Работа проводилась в добавлением коммитов.
